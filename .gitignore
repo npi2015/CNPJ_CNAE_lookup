@@ -1,0 +1,5 @@
+/.venv
+/data
+/downloader_cnpj.py
+/installer.sh
+/test.py
